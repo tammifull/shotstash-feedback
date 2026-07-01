@@ -6,6 +6,7 @@ Public home for **bug reports** and **feature requests** for
 - 🐞 **Found a bug?** → [Open a bug report](../../issues/new?template=bug_report.yml)
 - ✨ **Have an idea?** → [Request a feature](../../issues/new?template=feature_request.yml)
 - 💬 **Questions / general talk** → [Discussions](../../discussions)
+- 🗺️ **Roadmap** → [what we're considering](ROADMAP.md) (👍 the ones you want)
 - 👍 See an issue you want? **React with a thumbs-up** — it helps prioritize.
 
 日本語でも英語でもお気軽にどうぞ / English and Japanese both welcome.
