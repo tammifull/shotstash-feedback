@@ -1,4 +1,4 @@
-# ShotStash Roadmap
+# Stashot Roadmap
 
 These are ideas we're **considering** — not promises, and no dates. This is build-in-public:
 👍 react to the ones you want, comment, or suggest your own in
@@ -7,7 +7,7 @@ These are ideas we're **considering** — not promises, and no dates. This is bu
 日本語での提案も大歓迎です。
 
 ## ✅ Shipped
-- **v0.2.0** — MCP server (`shotstash-mcp`), CLI (`sss`), menu-bar app, AI-friendly site
+- **v0.2.0** — MCP server (`stashot-mcp`), CLI (`sss`), menu-bar app, AI-friendly site
 
 ## 🧭 Considering (help us prioritize with a 👍)
 
